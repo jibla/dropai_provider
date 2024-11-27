@@ -1,0 +1,8 @@
+name: 'DropAI Provider'
+type: module
+description: 'DropAI provider for AI module.'
+package: AI Providers
+core_version_requirement: ^10 || ^11
+dependencies:
+  - ai:ai
+  - key:key
